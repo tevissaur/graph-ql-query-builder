@@ -1,0 +1,23 @@
+{
+  "name": "graph-ql-query-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-graphql-builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevissaur/graph-ql-query-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tevissaur/graph-ql-query-builder/issues"
+  },
+  "homepage": "https://github.com/tevissaur/graph-ql-query-builder#readme",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
+}
